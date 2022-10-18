@@ -1,0 +1,51 @@
+body {
+  color: black;
+  background-color: rgb(102, 255, 204);
+  font-family: sans-serif;
+}
+
+.title {
+  text-align: center;
+  padding-top: 15px;
+  font-style: oblique;
+  letter-spacing: 25px;
+}
+
+div {
+  background-color: rgb(51, 255, 173);
+  padding: 30px;
+  margin: 50px;
+  border: 10px;
+  border-color: rgb(0, 128, 85);
+  border-style: double;
+  clear: both;
+}
+
+img {
+  height: 200px;
+  width: auto;
+}
+
+.profile {
+  display: inline-block;
+}
+
+h1.profile {
+  width: 75%;
+}
+
+img.profile {
+  float: right;
+  padding-right: 4%;
+  padding-top: 1%;
+  padding-left: 1%;
+}
+
+li {
+  font-size: 120%;
+  line-height: 150%;
+}
+
+.contact {
+  list-style-type: none;
+}
