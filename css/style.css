@@ -5,6 +5,7 @@ body {
 }
 
 .title {
+  font-size: 20px;
   text-align: center;
   padding-top: 15px;
   font-style: oblique;
